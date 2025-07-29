@@ -1,0 +1,66 @@
+.goldenGate {
+    margin-top: 50px;
+    font-style: italic;
+    opacity: 0.4;
+    text-align: center;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #000000;
+    color: #ecb80c;
+    line-height: 1.6;
+    padding: auto;
+}
+header {
+    padding: 50px;
+    text-align: center;
+}
+.caja {
+    border: 1px solid #f0ba07;
+    border-radius: 10px 10px 10px 10px;
+    background-color: #747216af;
+    overflow: auto;
+    margin: 10px 10px;
+    padding: 10px;
+
+}
+.principios {
+    font-size: 1.2em;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    overflow: auto;
+    text-align: center;
+}
+.iniciado {
+    font-size: 1.2em;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    overflow: auto;
+    text-align: center;
+}
+.caja1 {
+      border: 1px solid #f0ba07;
+    border-radius: 10px 10px 10px 10px;
+    background-color: #747216af;
+    overflow: auto;
+    margin: 10px 10px;
+    padding: 10px;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #000000;
+    color: #ecb80c;
+    width: 100%;
+    bottom: 0;
+}
+main {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
