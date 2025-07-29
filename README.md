@@ -38,6 +38,7 @@ Aquí se guardarán las primeras armas forjadas en la Senda del Arquitecto. Cada
 
 * **Proyecto 01:** [Homenaje a Nikolas Tesla]
 * **Proyecto 02:** [Pergamino de Origen]
+* **Proyecto 03:** [El Faro del Futuro]
 * *(...la armería crecerá...)*
 
 ---
